@@ -14,4 +14,4 @@ Supplementary data folders and files:
 - phone_image_results_section_3p1
 - glare_graph_results_section_3p2
 
-![alt text](https://github.com/mikeyt120/coastal-glare-estimation/blob/glare_model_eq?raw=true)
+![glare_model_eq](https://github.com/mikeyt120/coastal-glare-estimation/blob/glare_model_eq.jpg?raw=true)
