@@ -14,5 +14,9 @@ Supplementary data folders and files:
 - phone_image_results_section_3p1
 - glare_graph_results_section_3p2
 
+Example glare graph from glare_estimator:
+![glare_graph_example](https://github.com/mikeyt120/coastal-glare-estimation/blob/main/glare_graph_example.png)
+
+Light reflection geometry model:
 ![glare_model_eq](https://github.com/mikeyt120/coastal-glare-estimation/blob/main/glare_model_eq.jpg)
 In the above image, the light blue rotations are theta_wx and red rotations are theta_wy. In this lego model, theta_wx is in the opposite direction to figure 8a in the paper. My collegue's Chewbacca was particularly interested in geometry so flew over to check it out.
