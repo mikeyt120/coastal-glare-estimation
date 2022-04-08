@@ -14,7 +14,7 @@ Supplementary data folders and files:
 - phone_image_results_section_3p1
 - glare_graph_results_section_3p2
 
-Example glare graph from glare_estimator:
+Example glare graph from glare_estimator.ipynb:
 ![glare_graph_example](https://github.com/mikeyt120/coastal-glare-estimation/blob/main/glare_graph_example.png)
 
 Light reflection geometry model:
