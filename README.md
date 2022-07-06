@@ -11,7 +11,8 @@ Paper available at ________________
 
 Supplementary data folders and files:
 - phone_results_comparison_table_1.xlsx
-- glare_graph_images_section_3p2 
+- glare_graph_images_section_3p2
+- glare_start_finish_times.xlsx
 - phone_image_results_section_3p1
 - glare_graph_results_section_3p2
 
