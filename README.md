@@ -30,3 +30,5 @@ The software was originally written with the following versions of code and libr
 - matplotlib v3.3.2
 - astropy v4.0.2 (doesn't come with anaconda installation)
 - cv2 v4.4.0.46 (doesn't come with anaconda installation)
+
+"From the rising of the sun to the place where it sets, the name of the Lord is to be praised." Psalm 113:3
